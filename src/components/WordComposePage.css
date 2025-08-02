@@ -1,0 +1,13 @@
+.compose-page h1 {
+  margin-bottom: 20px;
+}
+
+.compose-page input {
+  margin: 5px;
+  padding: 10px;
+}
+
+.compose-page button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
